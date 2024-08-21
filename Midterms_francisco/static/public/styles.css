@@ -1,0 +1,35 @@
+/*
+Francisco, Brent Axel S.
+WD-301
+*/
+
+body {
+    color: blue;
+    justify-content: center;
+    background-color: blanchedalmond;
+}
+p {
+    color: black;
+    justify-content: center;
+}
+
+header {
+    padding-top: 30px;
+    padding-bottom: 50px;
+    padding-left: 800px;
+    text-transform: capitalize;
+    font-size: 50px;
+}
+
+.nav {
+    overflow: hidden;
+    font-size: 30px;
+  }
+
+
+a {
+    display:inline;
+    padding: 8px;
+    background-color: #b2b2b2;
+    justify-content: center;
+  }
